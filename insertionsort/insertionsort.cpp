@@ -14,4 +14,7 @@ void input() {
 		}
 		else
 		{
-		
+			cout << "\nArray yang anda masukkan maksimal 20 elemen.\n";
+		}
+	}
+	
